@@ -28,7 +28,7 @@ Z mojej analizy wynika, że dzieje się to gdy Distant Horizons nie wyrabia z wy
 - zmieniłeś nazwę serwera, co spowodowało że DH po twojej stronie musi pobrać na nowo;
 - podróżujesz za szybko;
 
-Co zrobić? Generalnie wystarczy spróbować się rozłączyć (lbo poczekać aż samo się rozłączy - a rozłączy się) i połączyć ponownie. Może być parę razy, aż dane się nie pobiorą. Alternatywnie można na chwilę wyłączyć Distant Horizons albo zmniejszyć render distance.
+Co zrobić? Generalnie wystarczy spróbować się rozłączyć (albo poczekać aż samo się rozłączy - a rozłączy się) i połączyć ponownie. Może być parę razy, aż dane się nie pobiorą. Alternatywnie można na chwilę wyłączyć Distant Horizons albo zmniejszyć render distance.
 
 Jak będzie to większym problemem, to pomyślimy nad innym rozwiązaniem. Ale na razie z własnych testów tyle zauważyłem.
 
