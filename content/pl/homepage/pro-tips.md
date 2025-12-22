@@ -22,6 +22,16 @@ Nie ma lekko!
 #### Serwer mówi że nie mogę się połączyć
 Spróbuj jeszcze raz, czasem tak się dzieje po restarcie serwera. Jak nadal nie ładzia, to cóż, zostanę okrzyczony.
 
+#### Pomocy, zapadam się pod ziemię!
+Z mojej analizy wynika, że dzieje się to gdy Distant Horizons nie wyrabia z wysłaniem informacji o chunkach. Zwykle dzieje się tak gdy:
+- dołączasz do serwera po raz pierwszy;
+- zmieniłeś nazwę serwera, co spowodowało że DH po twojej stronie musi pobrać na nowo;
+- podróżujesz za szybko;
+
+Co zrobić? Generalnie wystarczy spróbować się rozłączyć (lbo poczekać aż samo się rozłączy - a rozłączy się) i połączyć ponownie. Może być parę razy, aż dane się nie pobiorą. Alternatywnie można na chwilę wyłączyć Distant Horizons albo zmniejszyć render distance.
+
+Jak będzie to większym problemem, to pomyślimy nad innym rozwiązaniem. Ale na razie z własnych testów tyle zauważyłem.
+
 #### Zepsute Shadery po wyjęciu broni
 Gramy z Point Blank, bo są wśród nas nerdy broni palnej i nikt nie wyraził sprzeciwu. Ale Point Blank, przynajmniej z moich obserwacji, ma taki błąd że jak gramy z shaderami i wyjmiemy broń, to coś się psuje i nagle widzimy jaskinie przez ściany.
 
