@@ -58,7 +58,7 @@ Pierw chcemy kilka bardzo ważnych zmian. Serwer jest ustawiony tak że i tak ni
 2. Dajemy **Done**.
 3. Na głównym ekranie opcji klikamy guzior z takimi kolorowymi kwadratami.
 ![Distant Horizons Settings Button](/images/dh-settings-button.png)
-4. Tutaj chcemy się opewnić że **Enable Rendering** jest ustawione na `True`, **Enable Distant Generation** na `False` (by serwer to robił, nie klient), i że **Render Distance** jest... znacznie większy niż ten minecraftowy. `128` albo `256` powinno być ok. Możecie generalnie zmniejszyć zasięg i jakość w ustawieniach jak wam zmula.
+4. Tutaj chcemy się opewnić że **Enable Rendering** jest ustawione na `True`, **Enable Distant Generation** na `False` (by serwer to robił, nie klient), i że **Render Distance** jest... znacznie większy niż ten minecraftowy. Myślę że `128` na start, a po zalogowaniu się już `256` powinno być ok. Możecie generalnie zmniejszyć zasięg i jakość w ustawieniach jak wam zmula.
 ![Distant Horizons Settings](/images/dh-settings.png)
 5. Naturalnie dajemy **Done**.
 
