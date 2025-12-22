@@ -1,0 +1,18 @@
+:root {
+    --section-dark-bg-color: #1E1E1E;
+    --section-dark-text-color: #f2efe8;
+    --section-light-bg-color: #232327;
+    --section-light-text-color: #f2efe8;
+    --cover-text-color: white;
+    --highlight: #597d36;
+    --highlight-inverse: #24964c;
+    --section-uni-code-bg-color: #414241;
+}
+
+*:not(.fa) {
+    font-family: Helvetica, Arial, sans-serif !important;
+}
+
+#site-head {
+    height: 700px !important;
+}
