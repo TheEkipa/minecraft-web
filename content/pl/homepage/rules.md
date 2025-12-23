@@ -8,13 +8,13 @@ header_menu: true
 
 Ogólnie zasady są w większości dość oczywiste, ale z powodów które będą jasne zaraz, uznałem że i tak napiszę.
 
-#### 1. Zakaz Czitowania
+#### 1. Zakaz czitowania
 Rozumie samo przez się. Jeśli coś jest w odczuciu cheatowaniem, to jest cheatowaniem. Nie żebym kogokolwiek tutaj podejrzewał o to, ale jak dajem zasady, to równie dobrze mogę napisać i taką.
 
-#### 2. Zakaz Griefowania
+#### 2. Zakaz griefowania
 Gramy coopowo. Nie psujemy innym nic. Gramy tak by wszystkim się spoko grało. Ponownie - sądzę że to każdy wie, daję tylko bo o, i tak są zasady.
 
-#### 3. Zakaz Szpecenia świata
+#### 3. Zakaz szpecenia świata
 Zasada dla której powstała lista zasad!
 
 Generalnie nie chodzi tutaj o to by ograniczać kreatywność albo by gonić kogoś za to że nie umie budować jak jutuberzy co w Minecrafcie całe życie spędzają. Ale też nikt z nas nie chce by poszło to w drugą stronę, tak więc:
@@ -30,5 +30,5 @@ To jest podstawowa zasada generalnie serwerów Minecraftowych. Nowa osoba może 
 
 Prawdopodobnie serwer będzie miał ACL na zasadzie białej listy i tak, no ale daję tutaj dla jasności.
 
-### Staramy się nie przeciążyć serwera
+### 5. Staramy się nie przeciążyć serwera
 Gramy normalnie, ale miejmy na uwadze że im większy świat, tym więcej miejsca on zajmuje. Wiele skomplikowanych maszyn z Create też negatywnie może wpłynąć na wydajność. Centrum handlowe z Villagerami *bardzo* obniżają wydajność (potwierdzone przez twórców Flywheel), więc też ich lepiej nie róbmy. Postarajmy się mieć tanio (w granicach rozsądku ofc).
