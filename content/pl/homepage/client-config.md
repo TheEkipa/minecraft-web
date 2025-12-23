@@ -85,7 +85,7 @@ Na koniec naturalnie trzeba klepnąć **Done**.
 ##### Borderless (opcjonalne, kwestia gustu)
 Wchodzimy w ustawienia wideło, znajdujemy tryb fullscreena, ustawiamy na borderless i dajemy **Done**. Tzn to wedle uznania, ale mamy na to moda, to można skorzystać.
 
-##### Reszta ustawień
+##### Reszta ustawień (opcjonalne)
 Polecam jeszcze pogrzebać w ustawienia jakości wideo w zależności od preferencji i wydajności. Polecam też m.in. zwiększyć wysokość chmur w **Quality+** - nie pamiętam ile jest domyślne, ja obecnie mam 192 bloków, ale to też generalnie wedle uznania.
 
 To tyle, nie krzyczcie już! Jezu!  
