@@ -11,7 +11,7 @@ Robimy to jednorazowo na start, i jeśli powiadomię że zmieniamy wersję Forge
 
 1. Pobieramy Minecrafta.
 2. Odpalamy Launcher, odpalamy grę raz i zamykamy jak się wszystko wczyta (bonus: dajemy dalej jak Narrator zacznie gadać by się zamknął).
-3. Pobieramy [Forge 47.4.10](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar). 
+3. Pobieramy [Forge 47.4.10](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar). Jak się nie da, to musicie zainstalować Javę. 
 4. Odpalamy pobrany plik, klikamy OK nic nie zmieniając, i czekamy aż skończy.
 5. Odpalamy Minecraft Launcher. Sprawdzamy czy Forge się pojawia normalnie - od teraz zawsze chcemy by tak było (znaczy, jak chcemy zagrać na super duper Ekipowym serwerze, poza tym róbta co chceta).
 ![Forge in Launcher](/images/forge-in-launcher.png)
