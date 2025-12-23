@@ -75,7 +75,7 @@ Pierw chcemy włączyć resource packi (jeśli je zainstalowaliśmy). Klikamy w 
 ##### Shadery (opcjonalne, ale będzie ZNACZNIE ładniej wyglądało)
 Ustawienie na które każdy czekał - shadery.
 
-Wchodzimy w ustawienia grafiki, a tam na górze jest przycisk od paczek shaderów. Wbijamy, i się upewniamy że shadery są włączone, i podświetlone shadery to te z którymi chcemy grać, czy to jakieś własnoręcznie wybrane czy te ode mnie (jeśli są one tylko z zipa ode mnie, to to będzie **ComplimentaryUnbound_r5.6.1.zip**).
+Wchodzimy w ustawienia grafiki, a tam na górze jest przycisk od paczek shaderów. Wbijamy, i się upewniamy że shadery są włączone, i podświetlone shadery to te z którymi chcemy grać, czy to jakieś własnoręcznie wybrane czy te ode mnie (jeśli są one tylko z zipa ode mnie, to to będzie **ComplementaryUnbound_r5.6.1.zip**).
 ![Shader Packs Selection](/images/shaders-selection.png)
 
 Jeśli chcemy dostosować shadery, to po wybraniu shadera możemy na dole wbić w jego ustawienia. Jeśli zainstalowaliście ode mnie to dałem tam swoje Customowe ustawienia, które działały u mnie jeszcze na lapku, i generalnie powinno działać git. Ale jak ktoś chce dać lepsze efekty, albo zwiększyć wydajność to można pogrzebać - same shadery mają też kilka domyślnych profili do wybrania, więc jak kto tam woli i jak komu tam to chodzi.
