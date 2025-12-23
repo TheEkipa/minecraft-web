@@ -46,7 +46,7 @@ Mody z paczki pozwalają na użycie shaderów. Możecie sobie pobrać jakie chce
 
 Czemu osobna paczka? A bo shadery można sobie modyfikować wg własnego uznania, a w zipie dałem własne ustawienia.
 
-Możecie pobrać zipa [klikając tu](/dl/shaders-resources-latest.zip). Tak jak z modami - wywalamy wszystko z paczki do folderu Minecrafta.
+Możecie pobrać zipa [klikając tu](/dl/shaders-resources-latest.zip?v=2). Tak jak z modami - wywalamy wszystko z paczki do folderu Minecrafta.
 
 ### Ustawienia gry
 
