@@ -83,7 +83,7 @@ Jeśli chcemy dostosować shadery, to po wybraniu shadera możemy na dole wbić 
 Na koniec naturalnie trzeba klepnąć **Done**.
 
 ##### Borderless (opcjonalne, kwestia gustu)
-Wchodzimy w ustawienia wideło, znajdujemy tryb fullscreena, ustawiamy na bordlerless i dajemy **Done**. Tzn to wedle uznania, ale mamy na to moda, to można skorzystać.
+Wchodzimy w ustawienia wideło, znajdujemy tryb fullscreena, ustawiamy na borderless i dajemy **Done**. Tzn to wedle uznania, ale mamy na to moda, to można skorzystać.
 
 ##### Reszta ustawień
 Polecam jeszcze pogrzebać w ustawienia jakości wideo w zależności od preferencji i wydajności. Polecam też m.in. zwiększyć wysokość chmur w **Quality+** - nie pamiętam ile jest domyślne, ja obecnie mam 192 bloków, ale to też generalnie wedle uznania.
