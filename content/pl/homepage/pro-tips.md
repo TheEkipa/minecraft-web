@@ -22,6 +22,9 @@ Nie ma lekko!
 #### Serwer mówi że nie mogę się połączyć
 Spróbuj jeszcze raz, czasem tak się dzieje po restarcie serwera. Jak nadal nie ładzia, to cóż, zostanę okrzyczony.
 
+#### Encrypting i Encrypting i nic
+Zwykle to jest problem po stronie Microsoftu. Sprawdź [DownDetector](https://downdetector.com/status/minecraft/).
+
 #### Pomocy, zapadam się pod ziemię!
 Z mojej analizy wynika, że dzieje się to gdy Distant Horizons nie wyrabia z wysłaniem informacji o chunkach. Zwykle dzieje się tak gdy:
 - serwery logowania się do konta Minecrafta mają problem bo Microsoft coś zepsuł;
