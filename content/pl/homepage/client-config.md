@@ -35,16 +35,18 @@ Mysimy to zrobić po każdej instalacji Forge (co jak wspomniałem wyżej, powin
 ### Mody
 To teraz musimy zainstalować mody. Mody powinny się zgadzać z tym co na serwerze, poza modami co jasno zaznaczają że są "client-only" - takie można usuwać, dodawać itd jak się chce.
 
-Dla łatwego startu, zrobiłem zipa z naszymi modami serwerowymi + moimi polecanymi klientowymi. Pobieramy go [klikając tu](https://mega.nz/file/8slBkawJ#L2wZX3AII3nDmoaj3ioCTrxNnB1cuvdGWoM0ZSBVffI).
+Dla łatwego startu, zrobiłem zipa z naszymi modami serwerowymi + moimi polecanymi klientowymi. Pobieramy go [klikając tu](https://mega.nz/file/w4dkSaxa#ey8SYpTR0heJGJ8072dqKkJgrdQ8V0rBv4reMzQ7eZc).
 
 Potem odpalamy eksplorer, i w pasku wklepujemy `%appdata%/.minecraft`. Pierw polecam usunąć foldery `mods` i `pointblank` (jeśli istnieją) tak dla spokoju że nic starego nie zostanie - no chyba że coś się doinstalowało samemu, to już wtedy sami się bawcie. I wtedy po prostu rozpakować całą zawartość zipa tutaj, w folder Minecraftowy.
+
+Istnieje możliwość że będziemy raz na jakiś czas coś w modach zmieniać - czy dodać, czy usunąć, czy aktualizować. Ale wtedy dam znać na Discordzie (i wtedy ma głównie znaczenie by te foldery pierw usunąć).
 
 ### Shader i Resource packs (opcjonalne, ale polecane)
 Mody z paczki pozwalają na użycie shaderów. Możecie sobie pobrać jakie chcecie (tzn jeśli są na Minecrafta 1.20.1 i wspierają Distant Horizons), albo możecie pobrać ode mnie. 
 
 Czemu osobna paczka? A bo shadery można sobie modyfikować wg własnego uznania, a w zipie dałem własne ustawienia.
 
-Możecie pobrać zipa [klikając tu](/dl/shaders-resources-latest.zip). Tak jak z modami - wywalamy wszystko z paczki do folderu minecrafta.
+Możecie pobrać zipa [klikając tu](/dl/shaders-resources-latest.zip). Tak jak z modami - wywalamy wszystko z paczki do folderu Minecrafta.
 
 ### Ustawienia gry
 
@@ -58,8 +60,8 @@ Pierw chcemy kilka bardzo ważnych zmian. Serwer jest ustawiony tak że i tak ni
 2. Dajemy **Done**.
 3. Na głównym ekranie opcji klikamy guzior z takimi kolorowymi kwadratami.
 ![Distant Horizons Settings Button](/images/dh-settings-button.png)
-4. Tutaj chcemy się opewnić że **Enable Rendering** jest ustawione na `True`, **Enable Distant Generation** na `False` (by serwer to robił, nie klient), i że **Render Distance** jest... znacznie większy niż ten minecraftowy. Myślę że `128` na start, a po zalogowaniu się już `256` powinno być ok. Możecie generalnie zmniejszyć zasięg i jakość w ustawieniach jak wam zmula.
-![Distant Horizons Settings](/images/dh-settings.png)
+4. Tutaj chcemy się opewnić że **Enable Rendering** jest ustawione na `True`, **Enable Distant Generation** na `False` (by serwer to robił, nie klient), i że **Render Distance** jest... znacznie większy niż ten minecraftowy. Myślę że `64` do `128` na start będzie ok - w przyszłości może `256`, ale na razie serwer ma problem wygenerować tyle mapy w rozsądnym czasie. Możecie generalnie zmniejszyć zasięg i jakość w ustawieniach jak wam zmula.
+![Distant Horizons Settings](/images/dh-settings-128.png)
 5. Naturalnie dajemy **Done**.
 
 ##### Sterowanie
@@ -87,4 +89,4 @@ Wchodzimy w ustawienia wideło, znajdujemy tryb fullscreena, ustawiamy na bordle
 Polecam jeszcze pogrzebać w ustawienia jakości wideo w zależności od preferencji i wydajności. Polecam też m.in. zwiększyć wysokość chmur w **Quality+** - nie pamiętam ile jest domyślne, ja obecnie mam 192 bloków, ale to też generalnie wedle uznania.
 
 To tyle, nie krzyczcie już! Jezu!  
-*Tylko notka, że czasem mogę dać znać że coś jest do zmiany, ale wątpię by to było często.*
+*Tylko notka, że czasem mogę dać znać że coś jest do zmiany, ale wątpię by to było często. Jak coś to dam info na Discordzie.*
