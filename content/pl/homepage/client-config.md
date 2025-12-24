@@ -35,7 +35,7 @@ Mysimy to zrobić po każdej instalacji Forge (co jak wspomniałem wyżej, powin
 ### Mody
 To teraz musimy zainstalować mody. Mody powinny się zgadzać z tym co na serwerze, poza modami co jasno zaznaczają że są "client-only" - takie można usuwać, dodawać itd jak się chce.
 
-Dla łatwego startu, zrobiłem zipa z naszymi modami serwerowymi + moimi polecanymi klientowymi. Pobieramy go [klikając tu](https://mega.nz/file/w4dkSaxa#ey8SYpTR0heJGJ8072dqKkJgrdQ8V0rBv4reMzQ7eZc).
+Dla łatwego startu, zrobiłem zipa z naszymi modami serwerowymi + moimi polecanymi klientowymi. Pobieramy go [klikając tu](https://mega.nz/file/x8sX2SDJ#dSUzThF0ILwwtW33ir1kxdUIqh-4vdouy1puvGJwpLA).
 
 Potem odpalamy eksplorer, i w pasku wklepujemy `%appdata%/.minecraft`. Pierw polecam usunąć foldery `mods` i `pointblank` (jeśli istnieją) tak dla spokoju że nic starego nie zostanie - no chyba że coś się doinstalowało samemu, to już wtedy sami się bawcie. I wtedy po prostu rozpakować całą zawartość zipa tutaj, w folder Minecraftowy.
 
